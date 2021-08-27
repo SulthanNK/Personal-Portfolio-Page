@@ -27,7 +27,7 @@ html {
 }
 
 #welcome-section {
-  background: url(/background.jpg);
+  background-image: url(../images/background.jpg);
   background-position: center;
   background-size: cover;
 
